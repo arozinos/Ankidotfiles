@@ -1,0 +1,1 @@
+2026-08-14_10-28-39, Failed to set webview kind, Traceback (most recent call last):\n  File "C:\Users\Janis\AppData\Roaming\Anki2\addons21\1610304449\webview_util.py", line 21, in init_webview\n    webview.set_kind(KanjiGridWebViewKind.DEFAULT)\n    ^^^^^^^^^^^^^^^^\nAttributeError: 'AnkiWebView' object has no attribute 'set_kind'\n
